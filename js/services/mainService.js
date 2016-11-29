@@ -25,4 +25,8 @@ angular.module('devmtnTravel').service('mainSrv', function(){
 
 
     }]
+
+    // this.getCity = function() {
+    //   return this.city;
+    // }
 })
